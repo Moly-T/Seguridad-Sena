@@ -1,0 +1,115 @@
+*{
+    margin:0%;
+    padding: 0%;
+    font-family: 'Rowdies', cursive;
+    font-family: 'Source Code Pro', monospace;
+    font-family: 'Ubuntu', sans-serif;
+    
+}
+
+body{
+    background-color: blue;
+}
+
+h1{
+    margin-top: 2%;
+    color: white;
+    text-align: center;
+}
+
+
+#login{
+    background-color: white;
+    margin-top: 5%;
+    margin-left: 35%;
+    margin-right: 35%;
+    margin-bottom: 5%;
+    text-align: center;
+    border: 5px solid black;
+}
+
+#iniciar{
+    height: 40px;
+    width: 80px;
+    background-color: orange;
+    color: white;
+    border-radius: 24px;
+}
+
+input{
+    height: 25px;
+    width: 200px;
+    border-radius: 3px;
+}
+
+#profile{
+    width: 100px;
+}
+
+#logo{
+    width: 150px;
+}
+
+#footer{
+   position: absolute;
+   width: 100%;
+    bottom: 0;
+    background-color: orange;
+
+}
+
+
+
+
+
+
+
+
+
+
+.container{
+    overflow: hidden;
+}
+
+#salida{
+ margin-left: 10%;
+ margin-right: 90%;
+ text-align: center;
+ align-content: center ;
+ float: left;
+ 
+}
+
+#registrarsalida{
+    height: 40px;
+    width: 120px;
+    background-color: orange;
+    color: white;
+    border-radius: 24px;
+}
+
+#out{
+    width: 200px;
+}
+
+
+#nuevodispositivo{
+    margin-left: 50%;
+    margin-right: 50%;
+    text-align: center;
+    align-content: center ;
+    float: left;
+  
+   }
+   
+   #registrardispositivo{
+       height: 40px;
+       width: 120px;
+       background-color: orange;
+       color: white;
+       border-radius: 24px;
+   }
+   
+   #out{
+       width: 200px;
+   }
